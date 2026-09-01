@@ -148,3 +148,39 @@
 1. Опускание местоимений (Pro-drop): Местоимения часто опускают, так как форма глагола сама показывает, о ком речь (например, "Tengo" вместо "Yo tengo").
 2. Смешанные группы: Если в группе из 100 женщин есть хотя бы 1 мужчина, используется мужской род (nosotros, ellos, vosotros).
 3. Графическое ударение: Знак ´ меняет значение слова (Tú = ты / Tu = твой; Él = он / El = артикль).
+
+=== LEVEL 006: SER, ESTAR, TENER (The Core Trilogy) ===
+
+🗿 1. SER (Быть / Постоянная суть):
+• Когда использовать: Профессия, национальность, характер, происхождение.
+• Спряжение:
+
+- yo soy - nosotros somos
+- tú eres - vosotros sois
+- él/ella/Ud. es - ellos/ellas/Uds. son
+  • Примеры: Soy estudiante. Somos de España. Él es inteligente.
+
+🌊 2. ESTAR (Находиться / Временное состояние):
+• Когда использовать: Настроение, текущее состояние тела/духа, местоположение.
+• Спряжение:
+
+- yo estoy - nosotros estamos
+- tú estás - vosotros estáis
+- él/ella/Ud. está - ellos/ellas/Uds. están
+  • Примеры: Estoy en casa. Estoy cansado (м) / cansada (ж).
+
+🎒 3. TENER (Иметь / Физиологические состояния):
+• Когда использовать: Владение чем-то, возраст, потребности тела.
+• Спряжение:
+
+- yo tengo - nosotros tenemos
+- tú tienes - vosotros tenéis
+- él/ella/Ud. tiene - ellos/ellas/Uds. tienen
+  • Примеры: Tengo 20 años. Tengo hambre (голоден). Tengo frío (холодно).
+
+⚠️ ГЛАВНАЯ ЛОВУШКА (Ser vs Estar):
+• Soy cansado = Я занудный/утомляющий человек 🥱
+• Estoy cansado = Я устал (сейчас) 😴
+• Soy malo = Я плохой человек 😈
+• Estoy malo = Я болен / плохо себя чувствую 🤒
+• В испанском языке глаголы склоняются и по местоимениям и по времени, и прилагательные склоняются по родам

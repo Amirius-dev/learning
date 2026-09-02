@@ -184,3 +184,23 @@
 • Soy malo = Я плохой человек 😈
 • Estoy malo = Я болен / плохо себя чувствую 🤒
 • В испанском языке глаголы склоняются и по местоимениям и по времени, и прилагательные склоняются по родам
+
+=== LEVEL 007: Present Tense Regular Verbs (Presente de Indicativo) ===
+
+⚙️ 1. ТРИ СЕМЕЙСТВА ГЛАГОЛОВ:
+• Все правильные глаголы оканчиваются на -AR, -ER или -IR.
+• Схема: отбрасываем окончание инфинитива (-ar/-er/-ir) и добавляем нужное личное окончание.
+
+📋 2. ТАБЛИЦА ОКОНЧАНИЙ:
+| Местоимение | 🔴 -AR (trabajar 💼) | 🔵 -ER (comer 🍕) | 🟢 -IR (vivir 🏠) |
+| :--- | :--- | :--- | :--- |
+| Yo | -o (trabajo) | -o (como) | -o (vivo) |
+| Tú | -as (trabajas) | -es (comes) | -es (vives) |
+| Él / Ella / Ud. | -a (trabaja) | -e (come) | -e (vive) |
+| Nosotros/as | -amos (trabajamos) | -emos (comemos) | -imos (vivimos) |
+| Vosotros/as | -áis (trabajáis) | -éis (coméis) | -ís (vivís) |
+| Ellos / Ellas / Uds. | -an (trabajan) | -en (comen) | -en (viven) |
+
+💡 3. НЮАНСЫ:
+• В 90% случаев обычное Presente закрывает и текущее действие: "Como" = "Я ем" (вообще / сейчас).
+• Для акцента "прямо сейчас" используется конструкция: Estar + [глагол + -ando / -iendo].

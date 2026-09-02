@@ -243,3 +243,6 @@
 - el mapa 🗺️ (карта)
 - el problema ❓ (проблема)
 - el sistema ⚙️ (система)
+
+=== LEVEL 008: Articles & Noun Gender (Artículos y Género) ===
+Добавлены слова в мое приложение под ником Spanish пароль 12345678
